@@ -1,0 +1,11 @@
+1)Elements -> define
+2) Attributes ->manipulate
+3) Properties and value  -> design
+
+
+
+
+
+
+
+
