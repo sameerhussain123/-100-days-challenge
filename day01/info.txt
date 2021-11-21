@@ -1,5 +1,5 @@
 1)Elements -> define
-2) Attributes ->manipulate
+2) Attributes ->direction
 3) Properties and value  -> design
 
 
